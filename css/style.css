@@ -184,6 +184,10 @@ header .intro-text {
 	margin-left: 10px;
 	text-align: center;
 }
+
+#about .about-text h2 {
+	padding-top: 30px;
+}
 #about img {
 	border-radius: 50%;
 	width: 160px;
